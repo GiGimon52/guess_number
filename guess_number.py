@@ -24,3 +24,4 @@ while True:
 print('Отличная интуиция! Вы угадали число :)')
 print('hello')
 print('by')
+print('ручное добавление')
